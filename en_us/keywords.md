@@ -14,6 +14,10 @@ archery
 
 art workshop
 
+auto mechanic
+
+auto repair
+
 back rub
 
 backrub
@@ -67,6 +71,10 @@ brunch
 brunches
 
 camping
+
+car mechanic
+
+car repair
 
 car service
 
