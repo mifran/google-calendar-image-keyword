@@ -14,6 +14,10 @@ archery
 
 art workshop
 
+auto mechanic
+
+auto repair
+
 back rub
 
 backrub
@@ -69,6 +73,10 @@ brunches
 camping
 
 car service
+
+car mechanic
+
+car repair
 
 cello
 
@@ -151,6 +159,8 @@ dance
 dances
 
 dancing
+
+date night
 
 dental
 
@@ -423,6 +433,8 @@ tennis
 thanksgiving
 
 theater
+
+theatre
 
 tidy up
 
