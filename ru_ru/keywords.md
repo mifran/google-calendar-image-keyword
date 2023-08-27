@@ -2,6 +2,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 автосервис
 
+американский футбол
+
 бадминтон
 
 байк
@@ -252,6 +254,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 парусник
 
+пати
+
 педикюр
 
 пение
@@ -313,6 +317,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 ремонт авто
 
 репетиции хора
+
+рестлинг
 
 рестораны
 
@@ -448,7 +454,7 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 электронная книга
 
-BMX
+bmx
 
 christopher street day
 
