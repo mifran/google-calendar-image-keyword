@@ -144,8 +144,6 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 кататься на велосипеде
 
-кататься на велосипеде
-
 каяк
 
 каякинг
