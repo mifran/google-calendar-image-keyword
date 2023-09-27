@@ -4,15 +4,27 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 (insert one of many languages) course
 
+AGDQ
+
+Aikido
+
 all hallows' eve
 
 all saints' eve
 
 allhalloween
 
+american football
+
 archery
 
 art workshop
+
+art workshops
+
+artistic gymnastics
+
+auto maintenance
 
 auto mechanic
 
@@ -20,11 +32,25 @@ auto repair
 
 baby shower
 
+babyshower
+
+bachelorette party
+
+back 2 school
+
 back rub
+
+back to school
+
+back2school
 
 backrub
 
+backtoschool
+
 badminton
+
+ballet
 
 barbecue
 
@@ -44,9 +70,9 @@ bicycle
 
 bicycles
 
-bikes
-
 bike
+
+bikes
 
 biking
 
@@ -54,15 +80,27 @@ billiard
 
 birthday
 
+bmx
+
 board game
 
 board games
+
+boardgame
+
+boardgames
 
 boat cruise
 
 book club
 
+bouldering
+
 bowling
+
+boxing
+
+Boxing Day
 
 breakfast
 
@@ -74,19 +112,31 @@ brunches
 
 camping
 
-car service
+candle light dinner
+
+candlelight dinner
+
+canoe
+
+canoeing
+
+car maintenance
 
 car mechanic
 
 car repair
 
+car service
+
 cello
+
+chinese lunar new year
 
 chinese new year
 
-chinese new years
-
 chinese new year's
+
+chinese new years
 
 choir
 
@@ -120,15 +170,15 @@ cinema
 
 clarinet
 
-classical mucis
-
-cleaning
+classical music
 
 clean house
 
 clean the apartment
 
 clean the house
+
+climbing
 
 cocktail
 
@@ -138,11 +188,11 @@ codecademy
 
 coding time
 
-cooking
+coffee
 
 coffees
 
-coffee
+competitive shooting
 
 computer science
 
@@ -152,7 +202,25 @@ concerts
 
 contrabass
 
+cook dinner
+
+cook lunch
+
+cook meal
+
+cooking
+
 cornett
+
+cricket competition
+
+cricket game
+
+cricket match
+
+crochet
+
+crossfit
 
 cycling
 
@@ -164,6 +232,8 @@ dancing
 
 date night
 
+datenight
+
 dental
 
 dentist
@@ -174,33 +244,73 @@ dinner
 
 dinners
 
+discus
+
+diving
+
 diy
 
+dog sitting
+
+dog walker
+
+dog walking
+
+dogsitting
+
 drawing workshop
+
+dressage
 
 drinks
 
 dyke march
 
-eating
+ebook
 
 electrician
+
+embroidery
 
 english class
 
 english course
 
+equestrian
+
 euro pride
 
 europride
 
+eventing
+
 family meal
+
+Fat Tuesday
 
 father christmas
 
+felting
+
+fencing
+
 field hockey
 
-fitness
+first day of school
+
+first school day
+
+fitness center
+
+fitness class
+
+fitness evaluation
+
+fitness program
+
+fitness test
+
+fitness training
 
 flute
 
@@ -212,6 +322,12 @@ french course
 
 fridge repair
 
+games done quick
+
+gay and lesbian
+
+gay lesbian
+
 gay parade
 
 gay pride
@@ -220,13 +336,13 @@ gaygler
 
 gayglers
 
-gigs
-
-gig
-
 german class
 
 german course
+
+gig
+
+gigs
 
 going for a walk
 
@@ -250,7 +366,25 @@ halloween
 
 halloween dance
 
+hammer throw
+
+handball
+
+handicraft
+
 handyman
+
+Head of the Charles
+
+Head of the River Race
+
+helloween
+
+hen do
+
+hen night
+
+Hijri New Year
 
 hike
 
@@ -258,17 +392,39 @@ hikes
 
 hiking
 
+horse riding
+
+horseriding
+
 hour of code
+
+Islamic New Year
+
+javelin
+
+jiu jitsu
+
+jiu-jitsu
 
 jog
 
+jogging
+
 jogs
 
-jogging
+judo
+
+Jujutsu
+
+jumping
 
 karate
 
 kayaking
+
+knitting
+
+ladies night
 
 learn to code
 
@@ -284,13 +440,33 @@ luncheon
 
 lunches
 
-massage
+make dinner
 
-massages
+make lunch
 
 manicure
 
 manicures
+
+mardi gras
+
+mardigras
+
+martial arts
+
+massage
+
+massages
+
+maternity
+
+May Bumps
+
+millinery
+
+Mountain Bike
+
+Mountain Biking
 
 movie
 
@@ -300,9 +476,9 @@ music class
 
 music ensemble
 
-nails
-
 nap
+
+napping
 
 new year
 
@@ -312,7 +488,7 @@ new years
 
 newspaper
 
-newyear
+Nowruz
 
 oboe
 
@@ -330,6 +506,16 @@ orchestra
 
 painting
 
+Parsi New Year
+
+patchwork
+
+pedicure
+
+pedicures
+
+Persian New Year
+
 piano
 
 ping pong
@@ -337,10 +523,6 @@ ping pong
 ping-pong
 
 pingpong
-
-pedicure
-
-pedicures
 
 plan day
 
@@ -360,27 +542,45 @@ practice french
 
 practice german
 
+prepare dinner
+
+prepare lunch
+
+prepare meal
+
 programming in java
 
 programming in python
+
+quilting
+
+quinceanera
 
 rails girls
 
 railsgirls
 
+reach out to
+
 reading
 
-reach out to
+relaxing
+
+restaurant
 
 restaurants
 
-restaurant
+resting
+
+rhythmic gymnastics
+
+romantic dinner
+
+rowing
 
 rugby
 
 running
-
-runs
 
 sail
 
@@ -394,6 +594,20 @@ saxophone
 
 send invitations
 
+sewing
+
+SGDQ
+
+shooting competition
+
+shooting sport
+
+shooting sports
+
+shot put
+
+Shrove Tuesday
+
 singing
 
 sketching workshop
@@ -406,6 +620,8 @@ skis
 
 sleep
 
+sleeping
+
 snow boarding
 
 snow shoe
@@ -416,13 +632,23 @@ snowshoeing
 
 soccer
 
+sprinting
+
+St Patricks
+
+stag and doe
+
+stag do
+
+stag night
+
+stag party
+
 string quartett
 
 super bowl
 
 superbowl
-
-supper
 
 swim
 
@@ -430,7 +656,17 @@ swimming
 
 swims
 
+synchronized swimming
+
 table tennis
+
+taekwondo
+
+take dog out
+
+take out dog
+
+teeth cleaning
 
 tennis
 
@@ -441,6 +677,14 @@ theater
 theatre
 
 tidy up
+
+tire change
+
+tire replacement
+
+track and field
+
+triathlon
 
 trombone
 
@@ -464,13 +708,27 @@ video games
 
 video gaming
 
+videogames
+
+videogaming
+
+vietnamese new year
+
 violin
 
 violins
 
+volleyball
+
+walk dog
+
 walk the dog
 
 walking
+
+water polo
+
+waterpolo
 
 web development
 
@@ -486,6 +744,14 @@ weddings
 
 week planning
 
+weight lifting
+
+weightlifting
+
+wine bar
+
+wine night
+
 workout
 
 workouts
@@ -494,49 +760,51 @@ world pride
 
 worldpride
 
-write letter
+wrestling
 
-xmas
+write letter
 
 x-mas
 
 x-mas brunch
 
-xmas brunch
-
 x-mas dinner
-
-xmas dinner
 
 x-mas eve brunch
 
-xmas eve brunch
-
 x-mas eve dinner
-
-xmas eve dinner
 
 x-mas eve lunch
 
-xmas eve lunch
-
 x-mas eve luncheon
-
-xmas eve luncheon
 
 x-mas eve party
 
-xmas eve party
-
 x-mas lunch
-
-xmas lunch
 
 x-mas luncheon
 
-xmas luncheon
-
 x-mas party
+
+xmas
+
+xmas brunch
+
+xmas dinner
+
+xmas eve brunch
+
+xmas eve dinner
+
+xmas eve lunch
+
+xmas eve luncheon
+
+xmas eve party
+
+xmas lunch
+
+xmas luncheon
 
 xmas party
 

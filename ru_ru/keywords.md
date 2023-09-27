@@ -4,6 +4,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 американский футбол
 
+аэробика
+
 бадминтон
 
 байк
@@ -26,9 +28,15 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 бильярд
 
+бодибилдинг
+
+боевые искусства
+
 бокс
 
 борьба
+
+боулдеринг 
 
 боулинг
 
@@ -48,25 +56,39 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 верховая езда
 
+вечеринка
+
 вздремнуть
 
 видеоигра
 
 видеоигры
 
+винный бар
+
 виолончель
 
 водное поло
+
+волейбол
 
 волос
 
 волосы
 
+выгул собак
+
+выгул собаки
+
 выгуливать собаку
+
+выездка
 
 выпивка
 
 выпускной
+
+вьетнамский новый год
 
 вязание
 
@@ -83,6 +105,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 гольф
 
 готовка
+
+гребля
 
 гриль
 
@@ -102,6 +126,16 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 день святого валентина
 
+День святого патрика
+
+джиу джитсу
+
+джиу-джитсу
+
+джиуджитсу
+
+дзюдо
+
 езда на велосипеде
 
 ездить на велосипеде
@@ -120,6 +154,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 замена масла
 
+замена шин
+
 заниматься (любой язык) языком
 
 заниматься английским языком
@@ -131,6 +167,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 зубной
 
 информатика
+
+исламский Новый год
 
 йога
 
@@ -156,6 +194,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 кинотеатр
 
+кинсеаньера
+
 китайский новый год
 
 кларнет
@@ -178,6 +218,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 кофе
 
+крикет
+
 кроссфит
 
 круиз
@@ -188,6 +230,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 лгбт
 
+легкая атлетика
+
 лыжи
 
 мальчишник
@@ -196,9 +240,19 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 маникюры
 
+марди гра
+
 марш лесбиянок
 
 массаж
+
+материнство
+
+метание диска
+
+метание копья
+
+метание молота
 
 мореплавание
 
@@ -209,6 +263,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 музыкальный класс
 
 наводить порядок
+
+Навруз
 
 написать письмо
 
@@ -225,6 +281,10 @@ See [Top-level README.md](../README.md) for description of what this list means.
 новогодний
 
 новый год
+
+Новый год Парси
+
+Новый год по Хиджре
 
 обед
 
@@ -260,7 +320,11 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 пение
 
+первое сентября
+
 первый день в школе
+
+Персидский Новый год
 
 петь
 
@@ -294,6 +358,10 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 поспать
 
+приготовить обед
+
+приготовить ужин
+
 приготовление еды
 
 пробежка
@@ -310,11 +378,17 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 пылесосить
 
+пятнадцатилетие
+
+Регата на реке Чарльз
+
 регби
 
 релакс
 
 ремонт авто
+
+ремонт машины
 
 репетиции хора
 
@@ -336,6 +410,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 роспись
 
+рукоделие
+
 саксофон
 
 сантехник
@@ -350,6 +426,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 сделай сам
 
+сентября
+
 скалолазание
 
 скрипка
@@ -360,13 +438,29 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 снегоступы
 
+снова в школу
+
+сноуборд
+
+сноуборде
+
 сон
+
+соревнования по крикету
+
+соревнования по стрельбе
 
 спать
 
 спорт
 
 спортзал
+
+спортивная гимнастика
+
+спортивная стрельба
+
+спринт
 
 стоматолог
 
@@ -390,9 +484,13 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 теннис
 
+толкание ядра
+
 тренировка
 
 тренировки
+
+триатлон
 
 тромбон
 
@@ -412,11 +510,15 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 урок игры на гитаре
 
+фехтование
+
 фильм
 
 фильмы
 
 фитнес
+
+фитнес-центр
 
 фитнесс
 
@@ -438,6 +540,8 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 художественная мастерская
 
+художественные мастерские
+
 хэллоуин
 
 чистка зубов
@@ -454,11 +558,21 @@ See [Top-level README.md](../README.md) for description of what this list means.
 
 электронная книга
 
+AGDQ
+
+babyshower
+
+bike
+
 bmx
 
 christopher street day
 
+cocktail
+
 codecademy
+
+crossfit
 
 dyke march
 
@@ -467,6 +581,8 @@ euro pride
 europride
 
 fitness
+
+games done quick
 
 gay parade
 
@@ -478,11 +594,19 @@ hour of code
 
 lesbian pride
 
+Mardi Gras
+
+Mountain Bike
+
 party
 
 rails girls
 
 railsgirls
+
+SGDQ
+
+St Patricks
 
 superbowl
 
