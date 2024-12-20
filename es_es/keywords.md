@@ -80,6 +80,8 @@ cena
 
 cena romántica
 
+cenar
+
 cenas
 
 cerveza
@@ -96,11 +98,15 @@ código
 
 cocina
 
+cocinar
+
 cocinar el almuerzo
 
 cocinar la cena
 
 cocinar la comida
+
+comida
 
 comida de navidad
 
@@ -141,6 +147,8 @@ despedida de soltero
 descansar
 
 día de san patricio
+
+dormir
 
 dyke march
 
@@ -284,6 +292,8 @@ peluquero
 
 pelo
 
+pesas
+
 piano
 
 ping pong
@@ -381,3 +391,7 @@ waterpolo
 world pride
 
 yoga
+
+viaje a ...
+
+foto
