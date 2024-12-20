@@ -1,26 +1,26 @@
 See [Top-level README.md](../README.md) for description of what this list means.
 
-aikido
-
-AGDQ
+acampada
 
 acción de gracias
 
-acampada
+AGDQ
+
+aikido
 
 almuerzo
 
 almuerzos
+
+año nuevo
+
+año nuevo chino
 
 Año Nuevo Hijri
 
 Año Nuevo Islámic
 
 Año Nuevo persa
-
-año nuevo
-
-año nuevo chino
 
 año nuevo vietnamita
 
@@ -32,13 +32,13 @@ baby shower
 
 babyshower
 
+bádminton
+
 baloncesto
 
 balonmano
 
 barbacoa
-
-bádminton
 
 bicicleta
 
@@ -94,8 +94,6 @@ ciclismo
 
 clarinete
 
-código
-
 cocina
 
 cocinar
@@ -105,6 +103,8 @@ cocinar el almuerzo
 cocinar la cena
 
 cocinar la comida
+
+código
 
 comida
 
@@ -140,11 +140,11 @@ desayuno
 
 desayunos
 
+descansar
+
 despedida de soltera
 
 despedida de soltero
-
-descansar
 
 día de san patricio
 
@@ -176,6 +176,8 @@ flauta
 
 fontanero
 
+foto
+
 fútbol
 
 fútbol americano
@@ -200,9 +202,9 @@ halloween
 
 hípica
 
-hora del código
-
 hockey sobre hierba
+
+hora del código
 
 Hour of Code
 
@@ -216,11 +218,11 @@ jiujutsu
 
 jogging
 
+judo
+
 juego de mesa
 
 juegos de mesa
-
-judo
 
 jujutsu
 
@@ -242,13 +244,13 @@ manicura
 
 manicuras
 
-masaje
+manitas
 
 Mardi Gras
 
 Mardigras
 
-manitas
+masaje
 
 maternidad
 
@@ -256,15 +258,15 @@ Mountain Bike
 
 Música clásica
 
+nadar
+
+natación
+
 navidad
 
 nochebuena
 
 Nowruz
-
-natación
-
-nadar
 
 oboe
 
@@ -273,6 +275,12 @@ odontología
 orquesta
 
 papá noel
+
+pasear
+
+pasear al perro
+
+paseo
 
 patchwork
 
@@ -284,13 +292,15 @@ película
 
 películas
 
-peluquería
+pelo
 
 peluquera
 
+peluquería
+
 peluquero
 
-pelo
+periódico
 
 pesas
 
@@ -304,33 +314,25 @@ pingpong
 
 pintura
 
+pintura
+
 piscina
 
-pasear
-
-pasear al perro
-
-paseo
-
-periódico
-
-pintura
+preparar el almuerzo
 
 preparar la cena
 
 preparar la comida
 
-preparar el almuerzo
-
 programación web
 
 quinceañera
 
-raquetas de nieve
-
 rails girls
 
 railsgirls
+
+raquetas de nieve
 
 remo
 
@@ -342,9 +344,9 @@ rugby
 
 running
 
-santa claus
-
 san valentín
+
+santa claus
 
 senderismo
 
@@ -368,15 +370,15 @@ tiro al blanco
 
 tiro con arco
 
+triatlón
+
 trombón
 
 trompeta
 
-triatlón
-
 tuba
 
-vuelta al cole
+viaje a ...
 
 videojuegos
 
@@ -386,12 +388,10 @@ violines
 
 Voleibol
 
+vuelta al cole
+
 waterpolo
 
 world pride
 
 yoga
-
-viaje a ...
-
-foto
