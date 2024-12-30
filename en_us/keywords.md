@@ -184,17 +184,11 @@ cocktail
 
 cocktails
 
-codecademy
-
-coding time
-
 coffee
 
 coffees
 
 competitive shooting
-
-computer science
 
 concert
 
@@ -396,8 +390,6 @@ horse riding
 
 horseriding
 
-hour of code
-
 Islamic New Year
 
 javelin
@@ -547,10 +539,6 @@ prepare dinner
 prepare lunch
 
 prepare meal
-
-programming in java
-
-programming in python
 
 quilting
 
@@ -729,10 +717,6 @@ walking
 water polo
 
 waterpolo
-
-web development
-
-web programming
 
 wedding
 
