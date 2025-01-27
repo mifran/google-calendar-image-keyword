@@ -94,6 +94,8 @@ ciclismo
 
 clarinete
 
+clínica
+
 cocina
 
 cocinar
@@ -153,6 +155,8 @@ dormir
 dyke march
 
 electricista
+
+entrega
 
 escalada
 
