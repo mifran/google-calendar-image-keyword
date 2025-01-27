@@ -510,6 +510,8 @@ Parsi New Year
 
 patchwork
 
+payment
+
 pedicure
 
 pedicures
@@ -701,6 +703,8 @@ vacuum cleaning
 valentine day
 
 valentines day
+
+video call
 
 video game
 
