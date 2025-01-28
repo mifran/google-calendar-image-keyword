@@ -10,6 +10,7 @@ bowling
 camping
 cinéma
 clarinette
+clinique
 cocktail
 coiffeur
 concert
@@ -25,10 +26,12 @@ gay pride
 golf
 halloween
 hockey
+hôpital
 jeux vidéo
 jiu jitsu
 judo
 kayak
+livraison
 mardi gras
 mariage
 médecin
@@ -59,4 +62,5 @@ trombone
 trompette
 tuba
 vélo
+voyage
 yoga
