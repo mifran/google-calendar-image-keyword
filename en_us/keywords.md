@@ -290,6 +290,8 @@ fitness test
 
 fitness training
 
+flight
+
 flute
 
 football
@@ -641,6 +643,10 @@ tire change
 tire replacement
 
 track and field
+
+travel
+
+trip
 
 triathlon
 
