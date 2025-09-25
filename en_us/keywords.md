@@ -1,16 +1,12 @@
 See [Top-level README.md](../README.md) for description of what this list means.
 
-(insert one of many languages) class
-
-(insert one of many languages) course
-
 AGDQ
 
 Aikido
 
-all hallows' eve
+all hallows eve
 
-all saints' eve
+all saints eve
 
 allhalloween
 
@@ -21,12 +17,6 @@ art workshop
 art workshops
 
 artistic gymnastics
-
-auto maintenance
-
-auto mechanic
-
-auto repair
 
 baby shower
 
@@ -82,15 +72,11 @@ boardgame
 
 boardgames
 
-boat cruise
-
 book club
 
 bouldering
 
 bowling
-
-Boxing Day
 
 breakfast
 
@@ -109,12 +95,6 @@ candlelight dinner
 canoe
 
 canoeing
-
-car mechanic
-
-car repair
-
-car service
 
 cello
 
@@ -176,8 +156,6 @@ coffee
 
 coffees
 
-competitive shooting
-
 concert
 
 concerts
@@ -200,8 +178,6 @@ cricket game
 
 cricket match
 
-crochet
-
 crossfit
 
 cycling
@@ -211,10 +187,6 @@ dance
 dances
 
 dancing
-
-date night
-
-datenight
 
 dental
 
@@ -226,11 +198,11 @@ dinner
 
 dinners
 
-discus
-
 diving
 
 diy
+
+doctor
 
 dog sitting
 
@@ -250,27 +222,17 @@ ebook
 
 electrician
 
-embroidery
-
 english class
 
 english course
-
-equestrian
 
 euro pride
 
 europride
 
-eventing
-
-family meal
-
 Fat Tuesday
 
 father christmas
-
-felting
 
 field hockey
 
@@ -344,12 +306,6 @@ halloween
 
 halloween dance
 
-hammer throw
-
-handball
-
-handicraft
-
 handyman
 
 Head of the Charles
@@ -358,10 +314,6 @@ Head of the River Race
 
 helloween
 
-hen do
-
-hen night
-
 Hijri New Year
 
 hike
@@ -369,10 +321,6 @@ hike
 hikes
 
 hiking
-
-horse riding
-
-horseriding
 
 Islamic New Year
 
@@ -395,10 +343,6 @@ jumping
 karate
 
 kayaking
-
-knitting
-
-ladies night
 
 learn to code
 
@@ -432,8 +376,6 @@ maternity
 
 May Bumps
 
-millinery
-
 Mountain Bike
 
 Mountain Biking
@@ -456,21 +398,9 @@ new year's
 
 new years
 
-newspaper
-
 Nowruz
 
 oboe
-
-october fest
-
-octoberfest
-
-oil change
-
-oktoberfest
-
-opera
 
 orchestra
 
@@ -478,13 +408,7 @@ painting
 
 Parsi New Year
 
-patchwork
-
 payment
-
-pedicure
-
-pedicures
 
 Persian New Year
 
@@ -508,8 +432,6 @@ plumber
 
 pool
 
-practice (insert one of many languages)
-
 practice english
 
 practice french
@@ -521,10 +443,6 @@ prepare dinner
 prepare lunch
 
 prepare meal
-
-quilting
-
-quinceanera
 
 reach out to
 
@@ -548,25 +466,9 @@ rugby
 
 running
 
-sail
-
-sailboat
-
-sailing
-
-santa claus
-
 saxophone
 
-send invitations
-
-sewing
-
 SGDQ
-
-shooting competition
-
-shot put
 
 Shrove Tuesday
 
@@ -584,25 +486,11 @@ sleep
 
 sleeping
 
-snow boarding
-
-snow shoe
-
-snowboarding
-
-snowshoeing
-
 soccer
 
 sprinting
 
 St Patricks
-
-stag and doe
-
-stag do
-
-stag night
 
 stag party
 
@@ -634,21 +522,15 @@ tennis
 
 thanksgiving
 
-theater
-
 tidy up
-
-tire change
-
-tire replacement
 
 track and field
 
 travel
 
-trip
-
 triathlon
+
+trip
 
 trombone
 
@@ -680,10 +562,6 @@ videogaming
 
 vietnamese new year
 
-violin
-
-violins
-
 volleyball
 
 walk dog
@@ -691,10 +569,6 @@ walk dog
 walk the dog
 
 walking
-
-water polo
-
-waterpolo
 
 wedding
 
@@ -710,10 +584,6 @@ weight lifting
 
 weightlifting
 
-wine bar
-
-wine night
-
 workout
 
 workouts
@@ -721,8 +591,6 @@ workouts
 world pride
 
 worldpride
-
-wrestling
 
 write letter
 
