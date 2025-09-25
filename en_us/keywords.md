@@ -536,6 +536,8 @@ plan week
 
 plumber
 
+pool
+
 practice (insert one of many languages)
 
 practice english
