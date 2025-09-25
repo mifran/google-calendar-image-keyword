@@ -16,8 +16,6 @@ allhalloween
 
 american football
 
-archery
-
 art workshop
 
 art workshops
@@ -36,8 +34,6 @@ babyshower
 
 bachelorette party
 
-back 2 school
-
 back rub
 
 back to school
@@ -49,8 +45,6 @@ backrub
 backtoschool
 
 badminton
-
-ballet
 
 barbecue
 
@@ -76,8 +70,6 @@ bikes
 
 biking
 
-billiard
-
 birthday
 
 bmx
@@ -98,8 +90,6 @@ bouldering
 
 bowling
 
-boxing
-
 Boxing Day
 
 breakfast
@@ -119,8 +109,6 @@ candlelight dinner
 canoe
 
 canoeing
-
-car maintenance
 
 car mechanic
 
@@ -184,17 +172,11 @@ cocktail
 
 cocktails
 
-codecademy
-
-coding time
-
 coffee
 
 coffees
 
 competitive shooting
-
-computer science
 
 concert
 
@@ -260,8 +242,6 @@ dogsitting
 
 drawing workshop
 
-dressage
-
 drinks
 
 dyke march
@@ -291,8 +271,6 @@ Fat Tuesday
 father christmas
 
 felting
-
-fencing
 
 field hockey
 
@@ -354,8 +332,6 @@ guitar lesson
 
 gym
 
-hackathon
-
 hair
 
 haircut
@@ -396,11 +372,7 @@ horse riding
 
 horseriding
 
-hour of code
-
 Islamic New Year
-
-javelin
 
 jiu jitsu
 
@@ -443,10 +415,6 @@ lunches
 make dinner
 
 make lunch
-
-manicure
-
-manicures
 
 mardi gras
 
@@ -552,17 +520,9 @@ prepare lunch
 
 prepare meal
 
-programming in java
-
-programming in python
-
 quilting
 
 quinceanera
-
-rails girls
-
-railsgirls
 
 reach out to
 
@@ -603,10 +563,6 @@ sewing
 SGDQ
 
 shooting competition
-
-shooting sport
-
-shooting sports
 
 shot put
 
@@ -678,8 +634,6 @@ thanksgiving
 
 theater
 
-theatre
-
 tidy up
 
 tire change
@@ -735,10 +689,6 @@ walking
 water polo
 
 waterpolo
-
-web development
-
-web programming
 
 wedding
 

@@ -15,6 +15,19 @@ These keywords depend on the language of your browser. Google Calendar recognize
 
 See [en_us/keywords.md](en_us/keywords.md) for the US English list.
 
+## June 2025 Android update
+
+Reports from devices running Google Calendar version 2024.37.0-674942318-release
+indicate that Google is rolling out a refreshed flair design that removes several
+previously supported keywords. Keywords such as `archery`, `ballet`,
+`back 2 school`, `billiard`, `boxing`, `car maintenance`, `codecademy`, `coding
+time`, `computer science`, `dressage`, `fencing`, `hackathon`, `hour of code`,
+`javelin`, `manicure`, `programming in java`, `programming in python`, `rails
+girls`, `railsgirls`, `shooting sport`, `shooting sports`, `theatre`, `web
+development`, and `web programming` no longer trigger flairs on Android, so
+they have been removed from the US English list. The keyword `back2school`
+continues to work with the new design.
+
 Here are other useful links:
 
 * [How to add pictures to your Google (with images)](https://momof3plus2.blogspot.com/2017/10/how-to-add-pictures-to-your-google.html)
