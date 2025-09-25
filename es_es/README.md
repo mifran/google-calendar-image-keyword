@@ -1,7 +1,6 @@
 
 <h1 align="center">Google calendar keywords español</h1>
 
----
 
 ## Tabla de Contenidos
 
@@ -14,6 +13,7 @@
     - [Cena](#cena)
     - [Bebidas alcohólicas](#bebidas-alcohólicas)
   - [Evento](#evento)
+    - [Entrevista](#entrevista)
     - [Baby shower](#baby-shower)
     - [Cumpleaños](#cumpleaños)
     - [Año nuevo](#año-nuevo)
@@ -86,13 +86,14 @@
   - [Tareas](#tareas)
     - [Limpieza](#limpieza)
     - [Cocinar](#cocinar)
+    - [Comprar](#comprar)
     - [Masaje](#masaje)
     - [Bricolaje](#bricolaje)
     - [Estudio](#estudio)
+    - [Pago](#pago)
   - [Otros](#otros)
     - [Planmyday](#planmyday)
 
----
 
 ## Categorías
 
@@ -130,6 +131,11 @@
 - cócteles
 
 ### Evento
+
+#### Entrevista
+
+- entrevista
+- entrevistas
 
 #### Baby shower
 
@@ -503,6 +509,11 @@
   - el almuerzo
   - la cena
 
+#### Comprar
+
+- compra
+- compras
+
 #### Masaje
 
 - masaje
@@ -518,6 +529,10 @@
 
 - estudio
 - estudiar
+
+#### Pago
+
+- pago
 
 ### Otros
 

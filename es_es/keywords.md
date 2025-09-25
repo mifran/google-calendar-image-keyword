@@ -118,6 +118,10 @@ comida familiar
 
 competición de cricket
 
+compra
+
+compras
+
 conjunto musical
 
 contrabajo
@@ -157,6 +161,8 @@ dyke march
 electricista
 
 entrega
+
+entrevista
 
 escalada
 
@@ -277,6 +283,8 @@ oboe
 odontología
 
 orquesta
+
+pago
 
 papá noel
 
