@@ -86,6 +86,10 @@ brunch
 
 brunches
 
+bus
+
+bus ride
+
 camping
 
 candle light dinner
@@ -406,6 +410,10 @@ orchestra
 
 painting
 
+parcel
+
+parcel pick-up
+
 Parsi New Year
 
 payment
@@ -448,6 +456,8 @@ reach out to
 
 reading
 
+reading club
+
 relaxing
 
 restaurant
@@ -457,6 +467,8 @@ restaurants
 resting
 
 rhythmic gymnastics
+
+rock climbing
 
 romantic dinner
 
@@ -469,6 +481,8 @@ running
 saxophone
 
 SGDQ
+
+shopping
 
 Shrove Tuesday
 
@@ -528,6 +542,8 @@ track and field
 
 travel
 
+travelling
+
 triathlon
 
 trip
@@ -562,6 +578,8 @@ videogaming
 
 vietnamese new year
 
+visiting cinema
+
 volleyball
 
 walk dog
@@ -569,6 +587,8 @@ walk dog
 walk the dog
 
 walking
+
+watching a movie
 
 wedding
 
@@ -592,7 +612,15 @@ world pride
 
 worldpride
 
+write
+
+write code
+
 write letter
+
+writing
+
+writing graffiti
 
 x-mas
 
