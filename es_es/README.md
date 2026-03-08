@@ -1,6 +1,4 @@
-
 <h1 align="center">Google calendar keywords español</h1>
-
 
 ## Tabla de Contenidos
 
@@ -22,7 +20,6 @@
       - [Año nuevo persa](#año-nuevo-persa)
     - [Concierto](#concierto)
     - [Entrega](#entrega)
-    - [Vuelo](#vuelo)
     - [Graduación](#graduación)
     - [Halloween](#halloween)
     - [Vuelta al cole](#vuelta-al-cole)
@@ -30,7 +27,6 @@
     - [Orgullo](#orgullo)
     - [San Patricio](#san-patricio)
     - [Acción de gracias](#acción-de-gracias)
-    - [Tren](#tren)
     - [San Valentín](#san-valentín)
     - [Elecciones](#elecciones)
     - [Boda](#boda)
@@ -91,9 +87,13 @@
     - [Bricolaje](#bricolaje)
     - [Estudio](#estudio)
     - [Pago](#pago)
+  - [Transporte](#transporte)
+    - [Viajar](#viajar)
+    - [Autobús](#autobús)
+    - [Tren](#tren)
+    - [Vuelo](#vuelo)
   - [Otros](#otros)
     - [Planmyday](#planmyday)
-
 
 ## Categorías
 
@@ -176,10 +176,6 @@
 
 - entrega
 
-#### Vuelo
-
-(Google Wallet)
-
 #### Graduación
 
 - graduación
@@ -217,10 +213,6 @@
 #### Acción de gracias
 
 - acción de gracias
-
-#### Tren
-
-(Google Wallet)
 
 #### San Valentín
 
@@ -533,6 +525,26 @@
 #### Pago
 
 - pago
+
+### Transporte
+
+#### Viajar
+
+- viajar
+- viaje
+- excursión
+
+#### Autobús
+
+- autobús
+
+#### Tren
+
+(Google Wallet)
+
+#### Vuelo
+
+(Google Wallet)
 
 ### Otros
 
