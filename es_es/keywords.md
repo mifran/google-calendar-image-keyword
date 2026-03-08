@@ -28,6 +28,8 @@ artes marciales
 
 aspirar
 
+autobús
+
 baby shower
 
 babyshower
@@ -392,7 +394,9 @@ trompeta
 
 tuba
 
-viaje a ...
+viajar
+
+viaje
 
 videojuegos
 
