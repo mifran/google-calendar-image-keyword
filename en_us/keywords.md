@@ -60,6 +60,8 @@ bikes
 
 biking
 
+bills
+
 birthday
 
 bmx
@@ -192,6 +194,8 @@ dances
 
 dancing
 
+delivery
+
 dental
 
 dentist
@@ -268,6 +272,8 @@ french course
 
 fridge repair
 
+gamenight
+
 games done quick
 
 gay and lesbian
@@ -281,6 +287,8 @@ gay pride
 gaygler
 
 gayglers
+
+genericnewyear
 
 german class
 
@@ -326,7 +334,13 @@ hikes
 
 hiking
 
+hotel
+
+interview
+
 Islamic New Year
+
+islamicnewyear
 
 jiu jitsu
 
@@ -348,7 +362,11 @@ karate
 
 kayaking
 
+kidspickupdropoff
+
 learn to code
+
+learninstrument
 
 lesbian march
 
@@ -406,6 +424,8 @@ Nowruz
 
 oboe
 
+onlineclasses
+
 orchestra
 
 painting
@@ -419,6 +439,8 @@ Parsi New Year
 payment
 
 Persian New Year
+
+photography
 
 piano
 
@@ -436,6 +458,8 @@ plan vacation
 
 plan week
 
+planmyday
+
 plumber
 
 pool
@@ -452,6 +476,8 @@ prepare lunch
 
 prepare meal
 
+pride
+
 reach out to
 
 reading
@@ -459,6 +485,8 @@ reading
 reading club
 
 relaxing
+
+repair
 
 restaurant
 
@@ -477,6 +505,8 @@ rowing
 rugby
 
 running
+
+saintpatricksday
 
 saxophone
 
@@ -509,6 +539,8 @@ St Patricks
 stag party
 
 string quartett
+
+studying
 
 super bowl
 
@@ -554,6 +586,8 @@ trumpet
 
 tuba
 
+tv
+
 vacation planning
 
 vacuum clean
@@ -572,6 +606,8 @@ video games
 
 video gaming
 
+videocall
+
 videogames
 
 videogaming
@@ -581,6 +617,8 @@ vietnamese new year
 visiting cinema
 
 volleyball
+
+vote
 
 walk dog
 
