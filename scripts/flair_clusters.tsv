@@ -1,0 +1,127 @@
+# flair_url_clusters.tsv - one row per keyword in a 200 cluster
+cluster_url	winner_id	keyword	redundant_tail
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_americanfootball.svg	americanfootball	american football	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_babyshower.svg	babyshower	baby shower	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_babyshower.svg	babyshower	babyshower	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_badminton.svg	badminton	badminton	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_baseball.svg	baseball	baseball	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_basketball.svg	basketball	basketball	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bbq.svg	bbq	bbq	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_birthday.svg	birthday	birthday	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bowling.svg	bowling	bowling	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_breakfast.svg	breakfast	breakfast	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bus.svg	bus	bus	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_camping.svg	camping	camping	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_chinesenewyear.svg	chinesenewyear	chinese new year	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cinema.svg	cinema	cinema	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_climbing.svg	climbing	climbing	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_coffee.svg	coffee	coffee	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_concert.svg	concert	concert	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cooking.svg	cooking	cooking	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cycling.svg	cycling	cycling	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dancing.svg	dancing	dancing	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dentist.svg	dentist	dentist	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dinner.svg	dinner	dinner	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_doctor.svg	doctor	doctor	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_drinks.svg	drinks	drinks	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_fieldhockey.svg	fieldhockey	field hockey	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_flight.svg	flight	flight	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_golf.svg	golf	golf	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_graduation.svg	graduation	graduation	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_gym.svg	gym	gym	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_haircut.svg	haircut	haircut	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_halloween.svg	halloween	halloween	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_hiking.svg	hiking	hiking	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_islamicnewyear.svg	islamicnewyear	Islamic New Year	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_karate.svg	karate	karate	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_kayaking.svg	kayaking	kayaking	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_lunch.svg	lunch	lunch	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_mardigras.svg	mardigras	mardi gras	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_mardigras.svg	mardigras	mardigras	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_massage.svg	massage	massage	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_nowruz.svg	nowruz	Nowruz	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_pingpong.svg	pingpong	ping pong	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_pingpong.svg	pingpong	ping-pong	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_pingpong.svg	pingpong	pingpong	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_read.svg	read	read	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_restaurant.svg	restaurant	restaurant	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_rowing.svg	rowing	rowing	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_running.svg	running	running	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_shopping.svg	shopping	shopping	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_sleep.svg	sleep	sleep	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_soccer.svg	soccer	soccer	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_swimming.svg	swimming	swimming	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_tennis.svg	tennis	tennis	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_thanksgiving.svg	thanksgiving	thanksgiving	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_triathlon.svg	triathlon	triathlon	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_trip.svg	trip	trip	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_valentinesday.svg	valentinesday	valentines day	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_videocall.svg	videocall	video call	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_videogaming.svg	videogaming	video gaming	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_videogaming.svg	videogaming	videogaming	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_volleyball.svg	volleyball	volleyball	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_wedding.svg	wedding	wedding	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_xmas.svg	xmas	x-mas	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_xmas.svg	xmas	xmas	no
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_yoga.svg	yoga	yoga	no
+
+# cluster_index - one line per distinct image URL
+cluster_url	winner_id	keyword_count	redundant_tail_count
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_americanfootball.svg	americanfootball	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_babyshower.svg	babyshower	2	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_badminton.svg	badminton	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_baseball.svg	baseball	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_basketball.svg	basketball	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bbq.svg	bbq	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_birthday.svg	birthday	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bowling.svg	bowling	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_breakfast.svg	breakfast	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_bus.svg	bus	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_camping.svg	camping	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_chinesenewyear.svg	chinesenewyear	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cinema.svg	cinema	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_climbing.svg	climbing	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_coffee.svg	coffee	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_concert.svg	concert	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cooking.svg	cooking	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_cycling.svg	cycling	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dancing.svg	dancing	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dentist.svg	dentist	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_dinner.svg	dinner	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_doctor.svg	doctor	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_drinks.svg	drinks	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_fieldhockey.svg	fieldhockey	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_flight.svg	flight	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_golf.svg	golf	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_graduation.svg	graduation	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_gym.svg	gym	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_haircut.svg	haircut	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_halloween.svg	halloween	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_hiking.svg	hiking	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_islamicnewyear.svg	islamicnewyear	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_karate.svg	karate	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_kayaking.svg	kayaking	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_lunch.svg	lunch	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_mardigras.svg	mardigras	2	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_massage.svg	massage	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_nowruz.svg	nowruz	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_pingpong.svg	pingpong	3	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_read.svg	read	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_restaurant.svg	restaurant	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_rowing.svg	rowing	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_running.svg	running	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_shopping.svg	shopping	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_sleep.svg	sleep	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_soccer.svg	soccer	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_swimming.svg	swimming	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_tennis.svg	tennis	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_thanksgiving.svg	thanksgiving	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_triathlon.svg	triathlon	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_trip.svg	trip	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_valentinesday.svg	valentinesday	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_videocall.svg	videocall	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_videogaming.svg	videogaming	2	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_volleyball.svg	volleyball	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_wedding.svg	wedding	1	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_xmas.svg	xmas	2	0
+https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_yoga.svg	yoga	1	0
